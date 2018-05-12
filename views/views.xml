@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<odoo>
+    <data>
+        <template id="assets_backend" name="saltedge_assets" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/fit_additional_metro_styling/static/src/css/fit_additional_metro_styling.css"/>
+                <script type="text/javascript" src="/fit_additional_metro_styling/static/src/js/fit_additional_metro_styling.js"/>
+            </xpath>
+        </template>
+    </data>
+</odoo>

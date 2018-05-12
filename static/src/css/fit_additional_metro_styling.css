@@ -1,0 +1,58 @@
+
+.interactive_fields_tree [data-id="interactive_field_field"] {
+    width: 40%;
+}
+
+div.o_main_content > div.o_content > div > div > header > ul > li.oe_active > span.label {
+    padding-top: 7px;
+}
+
+.o_form_view ul.oe_form_status li.oe_active > .label, .o_form_view ul.oe_form_status_clickable li > .label {
+    padding-bottom: 7px;
+}
+
+div.o_main_content > div.o_content > div > div > header > ul > li > span.label {
+    font-size: 12px;
+}
+
+.fit_status {
+    font-size: 80%;
+}
+
+.o_web_client > .o_main .o_sub_menu .o_sub_menu_content .oe_secondary_submenu .oe_menu_toggler:before {
+    border-top: 5px solid transparent;
+    border-left: 5px solid #b7c1ce;
+    margin-top: 6px;
+}
+
+.o_web_client > .o_main .o_sub_menu .o_sub_menu_content .oe_secondary_submenu .oe_menu_opened:before {
+    border-top: 5px solid #b7c1ce;
+    border-left: 5px solid transparent;
+    margin-top: 6px;
+}
+
+.o_form_view .o_form_required.o_form_input, .o_form_view .o_form_required .o_form_input, .o_form_view .o_form_required.o_form_textarea,
+.o_form_view .o_form_required .o_form_textarea {
+    background-color: #63a0d4;
+    color: white;
+}
+
+.o_kanban_view.o_kanban_dashboard.o_kanban_ungrouped a, .o_kanban_view.o_kanban_dashboard.o_kanban_grouped a, .o_kanban_view
+.o_kanban_dashboard.o_kanban_ungrouped span, .o_kanban_view.o_kanban_dashboard.o_kanban_grouped span {
+    text-align: -webkit-match-parent;
+}
+
+div.reconciliation_lines_container > div > table > tbody > tr > td > table > caption > div > div > div > input {
+    height: 28px;
+}
+
+.o_kanban_view.o_kanban_dashboard.o_kanban_ungrouped span {
+    text-align: -webkit-match-parent
+}
+
+.o_sub_menu {
+    width: 10%;
+}
+.o_chat_header {
+    background-color: #446e9b;
+}
