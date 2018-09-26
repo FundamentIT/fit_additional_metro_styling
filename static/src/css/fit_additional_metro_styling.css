@@ -31,6 +31,10 @@ div.o_main_content > div.o_content > div > div > header > ul > li > span.label {
     margin-top: 6px;
 }
 
+.nav-hierarchy {
+    margin-top: 0px;
+}
+
 .o_form_view .o_form_required.o_form_input, .o_form_view .o_form_required .o_form_input, .o_form_view .o_form_required.o_form_textarea,
 .o_form_view .o_form_required .o_form_textarea {
     background-color: #63a0d4;
